@@ -15,10 +15,6 @@
 # Maven local repository
 /.m2/
 
-# Database and exports
-todolist.db
-todolist.csv
-
 # OS files
 .DS_Store
 *.log
