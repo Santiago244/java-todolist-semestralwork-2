@@ -1,0 +1,27 @@
+# Maven / Java
+/target/
+*.jar
+*.war
+*.ear
+*.class
+
+# IntelliJ / Eclipse
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# Maven local repository
+/.m2/
+
+# Database and exports
+todolist.db
+todolist.csv
+
+# OS files
+.DS_Store
+*.log
+
+# Build artifacts
+/out/
